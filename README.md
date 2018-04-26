@@ -16,7 +16,7 @@ _____________________________________________________________________________
 
 Troubleshooting: Blank modules
 
-If you have blank modules showing up, delete any blank spaces in the Programs.txt file.
+Delete any blank spaces in Programs.txt and re-run CheckApplications.exe
 
 _____________________________________________________________________________
 
